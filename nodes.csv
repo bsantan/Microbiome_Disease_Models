@@ -1,0 +1,17 @@
+id|category|name|description|xref
+NCBITaxon:562|biolink:OrganismalEntity|Escherichia coli
+NCBITaxon:210|biolink:OrganismalEntity|Helicobacter pylori
+NCBITaxon:171552|biolink:OrganismalEntity|Prevotellaceae
+NCBITaxon:90370|biolink:OrganismalEntity|Salmonella enterica subsp. enterica serovar Typhi
+CHEBI:16412|biolink:ChemicalSubstance|lipopolysaccharide|Liposaccharide natural compounds consisting of a trisaccharide repeating unit (two heptose units and octulosonic acid) with oligosaccharide side chains and 3-hydroxytetradecanoic acid units (they are a major constituent of the cell walls of Gram-negative bacteria).
+CHEBI:17968|biolink:ChemicalSubstance|butyrate|A short-chain fatty acid anion that is the conjugate base of butyric acid, obtained by deprotonation of the carboxy group.
+PR:P05231|biolink:Protein|interleukin-6 (human)
+PR:P01375|biolink:Protein|tumor necrosis factor (human)
+PR:O00206|biolink:Protein|Toll-like receptor 4 (human)
+PR:Q07157|biolink:Protein|tight junction protein ZO-1 (human)
+PR:O95832|biolink:Protein|claudin-1 (human)
+Uniprot:Q48253|biolink:Protein|vacuolating cytotoxin
+Uniprot:A0A7R6VR17|biolink:Protein|Cytotoxin associated gene A
+GO:0006954|biolink:BiologicalProcess|inflammatory response
+MONDO:000518|biolink:Disease|Parkinson disease|A progressive degenerative disorder of the central nervous system characterized by loss of dopamine producing neurons in the substantia nigra and the presence of Lewy bodies in the substantia nigra and locus coeruleus. Signs and symptoms include tremor which is most pronounced during rest, muscle rigidity, slowing of the voluntary movements, a tendency to fall back, and a mask-like facial expression.
+CL:0000129|biolink:Cell|microglial cell|A central nervous system macrophage found in the parenchyma of the central nervous system. Marker include CD11b-positive, F4/80-positive, and CD68-positive.

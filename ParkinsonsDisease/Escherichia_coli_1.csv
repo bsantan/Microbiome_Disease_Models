@@ -1,0 +1,8 @@
+S|P|O
+Escherichia coli|produces|lipopolysaccharide
+lipopolysaccharide|regulates|pro-inflammatory cytokine
+pro-inflammatory|induces|oxidative stress
+oxidative stress|induces|alpha synuclein aggregation
+alpha synuclein aggregation|regulates|microglia
+microglia|involved in|inflammatory response
+inflammatory response|influences|parkinson disease

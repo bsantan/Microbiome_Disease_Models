@@ -1,0 +1,7 @@
+S|P|O
+Salmonella enterica subsp. enterica serovar Typhi|produces|lipopolysaccharide
+lipopolysaccharide |regulates|tumor necrosis factor (human)
+tumor necrosis factor (human)|regulates|Toll-like receptor 4 (human)
+Toll-like receptor 4 (human)|regulates|microglia
+microglia|involved in|inflammatory response
+inflammatory response|influences|parkinson disease
